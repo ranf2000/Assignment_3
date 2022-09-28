@@ -16,7 +16,7 @@
     ```
      
 ## Program Instructions
-1. Write a Python package with sub-packages, modules, and functions using keyword arguments.  Use the following directory outline and module names (your first starting point should be a directory called `mathematics` within your `lab05-username` directory):
+1. Write a Python package with sub-packages, modules, and functions using keyword arguments.  Use the following directory outline and module names :
      ```
 	mathematics/
 		__init__.py
