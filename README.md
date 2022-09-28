@@ -1,4 +1,4 @@
-# Assigment 3
+# Assignment 3
 
 ## Assignment 3 Objectives
 1. Explore and use various tools such as: GitHub, Visual Studio.
