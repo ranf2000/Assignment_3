@@ -1,6 +1,6 @@
-# Laboratory 5
+# Assigment 3
 
-## Laboratory Objectives
+## Assignment 3 Objectives
 1. Explore and use various tools such as: GitHub, Visual Studio.
 1. Write a Python program using:
      1. modules
